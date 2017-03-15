@@ -1,3 +1,4 @@
-# Actas
+# -----------------ACTAS------------------
+# Record/Minutes from LibreLabUCM meetings.
 
-Actas de LibreLabUCM
+# Also records from CryptoParty meetings.
